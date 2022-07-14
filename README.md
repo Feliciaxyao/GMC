@@ -1,4 +1,4 @@
-# GMC_NExT-QA <img src="images/logo.png" height="64" width="128">
+# GMC_NExT-QA 
 
 
 ## Dataset
